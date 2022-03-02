@@ -1,0 +1,1 @@
+$("#user_mobile").inputmask({"mask":"99 999 9999"});
